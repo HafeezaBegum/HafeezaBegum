@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hafeeza Begum Dudekula 👋</h1>
+<h1 align="center">Hi, I'm Hafeeza Begum 👋</h1>
 
 <p align="center">
   <strong>AI | Machine Learning | Data Science | Software Engineering</strong>
@@ -35,10 +35,9 @@ React | Flask | Express | Node.js | MongoDB | MySQL | GitHub | Jupyter
 
 ---
 
-### 📫 Let's Connect
+### 📫 Let's Connect on
 
 - [LinkedIn](https://linkedin.com/in/hafeeza-begum)
-- [GitHub Portfolio](https://github.com/HafeezaBegum)
-- 📧 Email: hxd314@case.edu  
+- Email: hxd314@case.edu  
 
 ---
