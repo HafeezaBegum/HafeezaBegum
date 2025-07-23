@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hafeeza Begum 👋</h1>
+<h1 align="center">Hi, I'm Hafeeza 👋</h1>
 
 <p align="center">
   <strong>AI | Machine Learning | Data Science | Software Engineering</strong>
@@ -28,10 +28,10 @@ React | Flask | Express | Node.js | MongoDB | MySQL | GitHub | Jupyter
 
 ### 📌 Featured Projects
 
-- 🔗 [Spartan Budget - Full-stack student finance app](https://github.com/yourgithub/spartan-budget)  
-- 🔗 [Fraud Detection Pipeline using ML & SHAP](https://github.com/yourgithub/spartan-budget)  
-- 🔗 [Thematic Song Classification using BERT](https://github.com/yourgithub/spartan-budget)  
-- 🔗 [High-Performance CNN for Traffic Sign Recognition](https://github.com/yourgithub/community-detection)
+- 🔗 [Spartan Budget - Full-stack student finance app](https://github.com/HafeezaBegum/SpartanBudget)  
+- 🔗 [Co-Purchasing Analysis and Recommendation System](https://github.com/HafeezaBegum/Co-Purchasing-Analysis-and-Recommendation-System)  
+- 🔗 [Thematic Song Classification using BERT](https://github.com/HafeezaBegum/Thematic-Song-Classification-using-BERT-Distributed-NLP)  
+- 🔗 [High-Performance CNN for Traffic Sign Recognition](https://github.com/HafeezaBegum/High-Performance-CNN-for-Real-Time-Traffic-Sign-Recognition)
 
 ---
 
